@@ -1,0 +1,9 @@
+C:\Dev2\ShoppingCart\WP_ShoppingCart\bin\Debug\WP_ShoppingCart.exe.config
+C:\Dev2\ShoppingCart\WP_ShoppingCart\bin\Debug\WP_ShoppingCart.exe
+C:\Dev2\ShoppingCart\WP_ShoppingCart\bin\Debug\WP_ShoppingCart.pdb
+C:\Dev2\ShoppingCart\WP_ShoppingCart\obj\Debug\WP_ShoppingCart.csprojAssemblyReference.cache
+C:\Dev2\ShoppingCart\WP_ShoppingCart\obj\Debug\WP_ShoppingCart.ShoppingCartForm.resources
+C:\Dev2\ShoppingCart\WP_ShoppingCart\obj\Debug\WP_ShoppingCart.Properties.Resources.resources
+C:\Dev2\ShoppingCart\WP_ShoppingCart\obj\Debug\WP_ShoppingCart.csproj.GenerateResource.cache
+C:\Dev2\ShoppingCart\WP_ShoppingCart\obj\Debug\WP_ShoppingCart.exe
+C:\Dev2\ShoppingCart\WP_ShoppingCart\obj\Debug\WP_ShoppingCart.pdb

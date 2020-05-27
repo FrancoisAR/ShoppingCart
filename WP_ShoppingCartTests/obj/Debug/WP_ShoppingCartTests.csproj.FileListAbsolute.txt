@@ -1,0 +1,16 @@
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\WP_ShoppingCartTests.dll
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\WP_ShoppingCartTests.pdb
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\WP_ShoppingCart.exe
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\WP_ShoppingCart.pdb
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\WP_ShoppingCart.exe.config
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\obj\Debug\WP_ShoppingCartTests.csprojAssemblyReference.cache
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\obj\Debug\WP_ShoppingCartTests.csproj.CopyComplete
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\obj\Debug\WP_ShoppingCartTests.dll
+C:\Dev2\ShoppingCart\WP_ShoppingCartTests\obj\Debug\WP_ShoppingCartTests.pdb
