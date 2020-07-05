@@ -37,6 +37,7 @@ namespace WP_ShoppingCart
         //Total for all Items in this draft
         public double GetOrderTotal()
         {
+            //whatever comment
             return OrderTotal;
         }
 

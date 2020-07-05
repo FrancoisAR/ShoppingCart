@@ -15,6 +15,7 @@ namespace WP_ShoppingCart.Tests
         public ShoppingCartLogicTests()
         {
             Shopping = new ShoppingCartLogic();
+            //
         }
 
 
