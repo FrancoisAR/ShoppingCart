@@ -8,5 +8,6 @@ namespace WP_ShoppingCart
 {
     class Class1
     {
+        //
     }
 }
